@@ -42,6 +42,10 @@ The dataset contains passenger information such as age, gender, passenger class,
 - Missing values were observed in Age and Cabin columns
 
 ---
+## How to Run
+Open and run the notebook `task2_EDA.ipynb` using Jupyter or Google Colab.
+
+---
 
 ## ✅ Conclusion
 This EDA helped in understanding survival patterns and data quality issues in the Titanic dataset.  

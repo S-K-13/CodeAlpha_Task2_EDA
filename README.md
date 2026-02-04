@@ -44,6 +44,7 @@ The dataset contains passenger information such as age, gender, passenger class,
 ---
 ## How to Run
 Open and run the notebook `task2_EDA.ipynb` using Jupyter or Google Colab.
+Run each single cell at a time in sequence.
 
 ---
 
